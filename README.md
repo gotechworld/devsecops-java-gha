@@ -1,6 +1,6 @@
 # Java Reachability Playground Modified for End to End Java DevSecOps Project Case Study
 
-# Added SonarCloud Code Coverage Changes in 2025
+# Added SonarCloud Code Coverage Changes in July 2025
 
 This is an intentionally vulnerable application. It was purposely designed to demonstrate the capabilities of Snyk's Reachable
 Vulnerabilities feature and includes both a "Reachable" vulnerability (with a direct data flow to the vulnerable function) and a "Potentially Reachable" vulnerability (where only partial data exists for determining reachability).
