@@ -2,4 +2,6 @@ version: 0.1
 phases:
   build:
     commands:
-      - mvn verify sonar:sonar -Dsonar.projectKey=projectKey -Dsonar.organization=projectOrg -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=token 
+      - mvn verify sonar:sonar -Dsonar.projectKey=gotechworld_devsecops-java-gha -Dsonar.organization=devsecops-java-gha
+No tags
+ -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=token 
