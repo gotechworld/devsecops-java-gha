@@ -1,4 +1,4 @@
-name: Build code, run unit test, run SAST, SCA, DAST security scans in 2025
+name: Build code, run unit test, run SAST, SCA, DAST security scans in July 2025
 on:
   push:
     branches:
