@@ -1,4 +1,4 @@
-import org.nd4j.util.ArchiveUtils;
+import org.nd4j.common.util.ArchiveUtils;
 import java.io.File;
 
 public class Unzipper {
